@@ -1,2 +1,4 @@
-# canvas-boilerplate
-Boilerplate for JavaScript canvas projects.
+# canvas-tiles
+A pixel tile effect created using JavaScript canvas.
+
+Preview: https://twinji.github.io/canvas-tiles/
